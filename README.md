@@ -1,12 +1,14 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+### PROJECT BY: EZHIL NEVEDHA.K
+### REGISTER NUMBER:  23007496
+ ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
-Introduction
+## Theory
+## Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -57,16 +59,28 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
+### Program:
+
+![Screenshot 2023-07-26 184253](https://github.com/ezhilnevedha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140057992/82661ee1-424b-4611-be8b-b0e067a09162)
+
+
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+
+### RTL realization
+![Screenshot 2023-07-26 184424](https://github.com/ezhilnevedha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140057992/d2252a5a-7a4e-432b-bd83-fff099fd3ed7)
+
+
+
+### Truthtable
+
+![Screenshot 2023-07-26 185429](https://github.com/ezhilnevedha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140057992/fc618637-7d7a-48bf-8d1f-f89b8719419d)
+
+
+### Waveform:
+
+![Screenshot 2023-07-26 190112](https://github.com/ezhilnevedha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140057992/06f58d62-2b3f-4017-83b1-2a4cec5ce8c7)
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
